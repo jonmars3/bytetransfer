@@ -1,0 +1,3 @@
+C:\Users\j0a0n\Desktop\OneDrive - Universidade do Minho\Projetos\ByteTransfer\training\folderA\file1.txt
+C:\Users\j0a0n\Desktop\OneDrive - Universidade do Minho\Projetos\ByteTransfer\training\folderA\file2.txt
+C:\Users\j0a0n\Desktop\OneDrive - Universidade do Minho\Projetos\ByteTransfer\training\folderA\file3.txt
